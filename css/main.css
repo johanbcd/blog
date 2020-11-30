@@ -76,7 +76,7 @@ nav .profile-link a{
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 100vh;/*Para que se vea siempre en toda la pantalla*/
-    background-image: url('../assets/imagenes/Cover.png');
+    background-image: url('../imagenes/Cover.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
